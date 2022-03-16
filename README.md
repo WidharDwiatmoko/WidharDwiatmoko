@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WidharDwiatmoko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in "Anything"
+- 🌱 I’m currently learning "Anything"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me widhardwi23@gmail.com
 
@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 THERE IS NOTHING TO SEE HERE....
 
-Get lose..:)
+Get lose..;)
